@@ -1,0 +1,31 @@
+.input_url_custom__checkbox {
+    display: flex;
+    height: 52px;
+    align-items: center;
+}
+
+.input_url_custom__checkbox input {
+    display: none;
+    width: 20px;
+    height: 20px;
+}
+
+.input_url_custom__checkbox label {
+    display: flex;
+    align-items: center;
+    background-color: #F6F6F6;
+    margin: 0;
+    padding: 0;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.input_url_custom__checkbox span {
+    display: flex;
+    color: var(--color-dark-blue);
+    font-weight: 600;
+    margin-left: 1rem;
+    
+}
