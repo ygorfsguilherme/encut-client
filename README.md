@@ -41,9 +41,6 @@ Obs: esse é apenas a client do projeto o server pode ser encontrado [aqui](http
 - <img height="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
 - <img height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript
 
-
-*Outras tecnologias como, banco de dados H2.*
-
 ## <img height="35px" src="https://img.icons8.com/fluency/96/null/requirement.png"/> Pré-requisitos
 - [NodeJS](https://nodejs.org/en)
 
