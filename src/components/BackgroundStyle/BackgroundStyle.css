@@ -1,0 +1,14 @@
+img {
+    width: 340px;
+}
+
+.personagem {
+    height: 460px;
+    width: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .personagem {
+        display: none;
+    }  
+}

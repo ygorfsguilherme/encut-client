@@ -1,0 +1,15 @@
+:root {
+    --background-color-right: #D9D9D9;
+    --background-color-left: #99CCCC;
+    
+    --navbar-text-color: var(--color-light-blue);
+    --navbar-text-color-hover: #2D5BB2;
+
+    --color-white: #F6F6F6;
+    --color-gray-10: #BEBEBE;
+
+    --color-dark-blue: #17282F;
+    --color-green: #0D9549;
+    --color-blue: #2D5BB2;
+    --color-light-blue: #7192D2;
+}
